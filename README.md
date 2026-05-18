@@ -7,6 +7,6 @@ Full Name: Md.Shakil Hossain
 
 Student ID: 2023200000795
 
-*Serial Number: 20
+Serial Number: 20
 
 Course Name: Applied Penetration Testing Engineer: Hands-on Experience (CADS012)
