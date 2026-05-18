@@ -1,5 +1,5 @@
 TryHackMe – OWASP Juice Shop Walkthrough Summary
-
+Download
 Overview
 
 The OWASP Juice Shop room is a deliberately vulnerable web application designed to demonstrate common web security flaws listed in the OWASP Top 10. The exercise focuses on hands-on exploitation of real-world web vulnerabilities such as information disclosure, injection flaws, and broken authentication.
